@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="vi">
+	<head>
+		<title>Đăng nhập</title>
+		<meta charset ="utf-8">
+		<link rel ="stylesheet" href ="../css/style03.css">
+		<script src = "../js/script.js"></script>
+
+	</head>
+	<body>
+		<div class="container" id ="container">
+			
+			<img src = "../assets/ho.jpg"alt = "ảnh" id ="image">
+			<h1 id="name"></h1>
+        	<h2 id="tenkh"></h2>
+        	<p id="description"></p>
+			<p id = "tt"></p>
+            <p id = "mt"></p>
+            <p id = "ta"></p>
+            <p id = "bt"></p>
+           
+
+        	<a href="../html/san-pham.html" class="back-btn"><button>
+            ← Quay lại</button>
+       		</a>
+		</div>
+		<script>
+			// Lay ID tu URL
+			const urlParams = new URLSearchParams(window.location.search);
+			const productId = urlParams.get("masp");
+			//Tim sp trong mang dua vao ID vua lay
+
+			const foundProduct = products.find(obj => obj.id === productId);
+
+			//Hien thi du lieu ra giao dien
+			if (foundProduct) {
+				document.getElementById("name").innerText = foundProduct.name;
+				document.getElementById("tenkh").innerText = foundProduct.tenkh;
+				document.getElementById("description").innerText = "Đặc điểm: " +foundProduct.description;
+				document.getElementById("tt").innerText = "Tập tính: "+ foundProduct.tt;
+				document.getElementById("image").src = foundProduct.image;
+                document.getElementById("mt").innerText = "Môi trường sống: "+ foundProduct.mt;
+                document.getElementById("ta").innerText = "Thức ăn: "+ foundProduct.ta;
+                document.getElementById("bt").innerText = "Tình trạng bảo tồn: "+ foundProduct.bt;
+	
+			}else{
+				document.getElementById("container").innerHTML = `<h2> Sản phẩm không ton tai hoac da bi xoa</h2><a href = "../index.html">Quay lai trang chu</a>`;
+			}
+
+		</script>
+
+
+
+	</body>
+</html>
