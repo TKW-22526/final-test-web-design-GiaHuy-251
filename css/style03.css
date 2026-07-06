@@ -115,7 +115,7 @@ body::after {
 }
 
 /* Các đoạn thông tin chi tiết */
-#tt, #mt, #ta, #bt, #description {
+#tt, #mt, #ta, #bt, #description, #dt, #mts, #vt {
   font-size: 0.95rem;
   line-height: 1.6;
   color: rgba(241, 236, 221, 0.88);

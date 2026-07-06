@@ -565,6 +565,217 @@ const products=[
     image: "../assets/lon-rung.webp",
     link: "chi-tiet.html"
   }*/
+  
+  {
+    id: "sp52",
+    name: "Cây sao đen",
+    tenkh: "Hopea odorata",
+    description: "Là cây thân gỗ hoặc cây lâu năm có giá trị cảnh quan và sinh thái.",
+    dt: "Phát triển tốt trong khí hậu nhiệt đới, cần ánh sáng và đất phù hợp.",
+    mts: "Công viên, rừng hoặc khu bảo tồn.",
+    vt: "Tạo bóng mát, hấp thụ CO₂, góp phần bảo tồn đa dạng sinh học.",
+    image: "../assets/ho.jpg",
+    link: "chi-tiet.html"
+  },
+ /* {
+    id: "sp53",
+    name: "Cây me",
+    tenkh: "Tamarindus indica",
+    description: "Là cây thân gỗ hoặc cây lâu năm có giá trị cảnh quan và sinh thái.",
+    dt: "Phát triển tốt trong khí hậu nhiệt đới, cần ánh sáng và đất phù hợp.",
+    mts: "Công viên, rừng hoặc khu bảo tồn.",
+    vt: "Tạo bóng mát, hấp thụ CO₂, góp phần bảo tồn đa dạng sinh học.",
+    image: "",
+    link: "chi-tiet.html"
+  },
+  {
+    id: "sp54",
+    name: "Cây xà cừ",
+    tenkh: "Khaya senegalensis",
+    description: "Là cây thân gỗ hoặc cây lâu năm có giá trị cảnh quan và sinh thái.",
+    dt: "Phát triển tốt trong khí hậu nhiệt đới, cần ánh sáng và đất phù hợp.",
+    mts: "Công viên, rừng hoặc khu bảo tồn.",
+    vt: "Tạo bóng mát, hấp thụ CO₂, góp phần bảo tồn đa dạng sinh học.",
+    image: "",
+    link: "chi-tiet.html"
+  },
+  {
+    id: "sp55",
+    name: "Cây lim xẹt",
+    tenkh: "Peltophorum pterocarpum",
+    description: "Là cây thân gỗ hoặc cây lâu năm có giá trị cảnh quan và sinh thái.",
+    dt: "Phát triển tốt trong khí hậu nhiệt đới, cần ánh sáng và đất phù hợp.",
+    mts: "Công viên, rừng hoặc khu bảo tồn.",
+    vt: "Tạo bóng mát, hấp thụ CO₂, góp phần bảo tồn đa dạng sinh học.",
+    image: "",
+    link: "chi-tiet.html"
+  },
+  {
+    id: "sp56",
+    name: "Cây bằng lăng",
+    tenkh: "Lagerstroemia speciosa",
+    description: "Là cây thân gỗ hoặc cây lâu năm có giá trị cảnh quan và sinh thái.",
+    dt: "Phát triển tốt trong khí hậu nhiệt đới, cần ánh sáng và đất phù hợp.",
+    mts: "Công viên, rừng hoặc khu bảo tồn.",
+    vt: "Tạo bóng mát, hấp thụ CO₂, góp phần bảo tồn đa dạng sinh học.",
+    image: "",
+    link: "chi-tiet.html"
+  },
+  {
+    id: "sp57",
+    name: "Cây phượng vĩ",
+    tenkh: "Delonix regia",
+    description: "Là cây thân gỗ hoặc cây lâu năm có giá trị cảnh quan và sinh thái.",
+    dt: "Phát triển tốt trong khí hậu nhiệt đới, cần ánh sáng và đất phù hợp.",
+    mts: "Công viên, rừng hoặc khu bảo tồn.",
+    vt: "Tạo bóng mát, hấp thụ CO₂, góp phần bảo tồn đa dạng sinh học.",
+    image: "",
+    link: "chi-tiet.html"
+  },
+  {
+    id: "sp58",
+    name: "Cây giáng hương",
+    tenkh: "Pterocarpus macrocarpus",
+    description: "Là cây thân gỗ hoặc cây lâu năm có giá trị cảnh quan và sinh thái.",
+    dt: "Phát triển tốt trong khí hậu nhiệt đới, cần ánh sáng và đất phù hợp.",
+    mts: "Công viên, rừng hoặc khu bảo tồn.",
+    vt: "Tạo bóng mát, hấp thụ CO₂, góp phần bảo tồn đa dạng sinh học.",
+    image: "",
+    link: "chi-tiet.html"
+  },
+  {
+    id: "sp59",
+    name: "Cây đa",
+    tenkh: "Ficus benghalensis",
+    description: "Là cây thân gỗ hoặc cây lâu năm có giá trị cảnh quan và sinh thái.",
+    dt: "Phát triển tốt trong khí hậu nhiệt đới, cần ánh sáng và đất phù hợp.",
+    mts: "Công viên, rừng hoặc khu bảo tồn.",
+    vt: "Tạo bóng mát, hấp thụ CO₂, góp phần bảo tồn đa dạng sinh học.",
+    image: "",
+    link: "chi-tiet.html"
+  },
+  {
+    id: "sp60",
+    name: "Cây bồ đề",
+    tenkh: "Ficus religiosa",
+    description: "Là cây thân gỗ hoặc cây lâu năm có giá trị cảnh quan và sinh thái.",
+    dt: "Phát triển tốt trong khí hậu nhiệt đới, cần ánh sáng và đất phù hợp.",
+    mts: "Công viên, rừng hoặc khu bảo tồn.",
+    vt: "Tạo bóng mát, hấp thụ CO₂, góp phần bảo tồn đa dạng sinh học.",
+    image: "",
+    link: "chi-tiet.html"
+  },
+  {
+    id: "sp61",
+    name: "Cây cau vua",
+    tenkh: "Roystonea regia",
+    description: "Có hình thái đặc trưng, được trồng làm cảnh hoặc bảo tồn.",
+    dt: "Sinh trưởng tốt trong điều kiện phù hợp về đất, nước và ánh sáng.",
+    mts: "Công viên, vườn thực vật hoặc tự nhiên.",
+    vt: "Tăng giá trị cảnh quan, cải thiện môi trường và góp phần bảo tồn thực vật.",
+    image: "",
+    link: "chi-tiet.html"
+  },
+  {
+    id: "sp62",
+    name: "Cây dừa",
+    tenkh: "Cocos nucifera",
+    description: "Có hình thái đặc trưng, được trồng làm cảnh hoặc bảo tồn.",
+    dt: "Sinh trưởng tốt trong điều kiện phù hợp về đất, nước và ánh sáng.",
+    mts: "Công viên, vườn thực vật hoặc tự nhiên.",
+    vt: "Tăng giá trị cảnh quan, cải thiện môi trường và góp phần bảo tồn thực vật.",
+    image: "",
+    link: "chi-tiet.html"
+  },
+  {
+    id: "sp63",
+    name: "Tre",
+    tenkh: "Bambusa",
+    description: "Có hình thái đặc trưng, được trồng làm cảnh hoặc bảo tồn.",
+    dt: "Sinh trưởng tốt trong điều kiện phù hợp về đất, nước và ánh sáng.",
+    mts: "Công viên, vườn thực vật hoặc tự nhiên.",
+    vt: "Tăng giá trị cảnh quan, cải thiện môi trường và góp phần bảo tồn thực vật.",
+    image: "",
+    link: "chi-tiet.html"
+  },
+  {
+    id: "sp64",
+    name: "Trúc",
+    tenkh: "Bambusoideae",
+    description: "Có hình thái đặc trưng, được trồng làm cảnh hoặc bảo tồn.",
+    dt: "Sinh trưởng tốt trong điều kiện phù hợp về đất, nước và ánh sáng.",
+    mts: "Công viên, vườn thực vật hoặc tự nhiên.",
+    vt: "Tăng giá trị cảnh quan, cải thiện môi trường và góp phần bảo tồn thực vật.",
+    image: "",
+    link: "chi-tiet.html"
+  },
+  {
+    id: "sp65",
+    name: "Lan",
+    tenkh: "Orchidaceae",
+    description: "Có hình thái đặc trưng, được trồng làm cảnh hoặc bảo tồn.",
+    dt: "Sinh trưởng tốt trong điều kiện phù hợp về đất, nước và ánh sáng.",
+    mts: "Công viên, vườn thực vật hoặc tự nhiên.",
+    vt: "Tăng giá trị cảnh quan, cải thiện môi trường và góp phần bảo tồn thực vật.",
+    image: "",
+    link: "chi-tiet.html"
+  },
+  {
+    id: "sp66",
+    name: "Sen",
+    tenkh: "Nelumbo nucifera",
+    description: "Có hình thái đặc trưng, được trồng làm cảnh hoặc bảo tồn.",
+    dt: "Sinh trưởng tốt trong điều kiện phù hợp về đất, nước và ánh sáng.",
+    mts: "Công viên, vườn thực vật hoặc tự nhiên.",
+    vt: "Tăng giá trị cảnh quan, cải thiện môi trường và góp phần bảo tồn thực vật.",
+    image: "",
+    link: "chi-tiet.html"
+  },
+  {
+    id: "sp67",
+    name: "Súng",
+    tenkh: "Nymphaea",
+    description: "Có hình thái đặc trưng, được trồng làm cảnh hoặc bảo tồn.",
+    dt: "Sinh trưởng tốt trong điều kiện phù hợp về đất, nước và ánh sáng.",
+    mts: "Công viên, vườn thực vật hoặc tự nhiên.",
+    vt: "Tăng giá trị cảnh quan, cải thiện môi trường và góp phần bảo tồn thực vật.",
+    image: "",
+    link: "chi-tiet.html"
+  },
+  {
+    id: "sp68",
+    name: "Vạn tuế",
+    tenkh: "Cycas revoluta",
+    description: "Có hình thái đặc trưng, được trồng làm cảnh hoặc bảo tồn.",
+    dt: "Sinh trưởng tốt trong điều kiện phù hợp về đất, nước và ánh sáng.",
+    mts: "Công viên, vườn thực vật hoặc tự nhiên.",
+    vt: "Tăng giá trị cảnh quan, cải thiện môi trường và góp phần bảo tồn thực vật.",
+    image: "",
+    link: "chi-tiet.html"
+  },
+  {
+    id: "sp69",
+    name: "Cọ cảnh",
+    tenkh: "Arecaceae",
+    description: "Có hình thái đặc trưng, được trồng làm cảnh hoặc bảo tồn.",
+    dt: "Sinh trưởng tốt trong điều kiện phù hợp về đất, nước và ánh sáng.",
+    mts: "Công viên, vườn thực vật hoặc tự nhiên.",
+    vt: "Tăng giá trị cảnh quan, cải thiện môi trường và góp phần bảo tồn thực vật.",
+    image: "",
+    link: "chi-tiet.html"
+  },
+  {
+    id: "sp70",
+    name: "Bàng Đài Loan",
+    tenkh: "Terminalia mantaly",
+    description: "Có hình thái đặc trưng, được trồng làm cảnh hoặc bảo tồn.",
+    dt: "Sinh trưởng tốt trong điều kiện phù hợp về đất, nước và ánh sáng.",
+    mts: "Công viên, vườn thực vật hoặc tự nhiên.",
+    vt: "Tăng giá trị cảnh quan, cải thiện môi trường và góp phần bảo tồn thực vật.",
+    image: "",
+    link: "chi-tiet.html"
+  }
+*/
 
 ];
 
@@ -588,8 +799,8 @@ function createItem(obj) {
     item.style.justifyContent = "space-between"; 
     item.style.alignItems = "center";
     item.style.textAlign = "center";
-    item.style.flex = "1 1 calc(25% - 40px)"; // Chia đều 4 cột (trừ đi khoảng cách gap)
-    item.style.minWidth = "220px"; // Đảm bảo trên màn hình nhỏ không bị quá bóp nghẹt
+    item.style.flex = "1 1 calc(25% - 40px)";
+    item.style.minWidth = "220px"; 
 
     // 3. Tạo khung chứa ảnh (Đã sửa class thành "image-box")
     const containerImage = document.createElement("div");
@@ -598,7 +809,7 @@ function createItem(obj) {
     // Tạo ảnh
     const img = document.createElement("img");
     img.setAttribute("src", obj.image);
-    img.setAttribute("alt", "ảnh con chó");
+    img.setAttribute("alt", "ảnh");
     img.setAttribute("style", "width: 100%; max-width: 150px; border-radius: 50%");
     img.setAttribute("style", "width: 120px; height: 120px; object-fit: cover; border-radius: 50%");
     
@@ -611,7 +822,7 @@ function createItem(obj) {
 
     containerInfo.style.display = "flex";
     containerInfo.style.flexDirection = "column";
-    containerInfo.style.flexGrow = "1"; // Giúp phần thông tin tự giãn đều
+    containerInfo.style.flexGrow = "1"; 
     containerInfo.style.justifyContent = "space-between";
     containerInfo.style.width = "100%";
 
@@ -619,7 +830,7 @@ function createItem(obj) {
     const name = document.createElement("p");
     name.innerHTML = obj.name;
 
-    // Tạo <p> chứa giá sản phẩm (Thêm format VNĐ cho đẹp)
+    
     const tenkh = document.createElement("p");
     tenkh.innerHTML = obj.tenkh;
 
