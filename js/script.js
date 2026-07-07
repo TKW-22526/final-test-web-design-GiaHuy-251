@@ -145,7 +145,7 @@ const products=[
     image: "../assets/lacda.jpg",
     link: "chi-tiet.html"
   },
-  /*{
+  {
     id: "sp13",
     name: "Linh dương",
     tenkh: "Antelope",
@@ -154,7 +154,7 @@ const products=[
     mt: "Đồng cỏ",
     ta: "Cỏ",
     bt: "Tùy loài",
-    image: "../assets/linh-duong.webp",
+    image: "../assets/linhduong.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -166,7 +166,7 @@ const products=[
     mt: "Rừng",
     ta: "Cỏ, lá",
     bt: "Ít quan tâm",
-    image: "../assets/huou.webp",
+    image: "../assets/huousao.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -178,7 +178,7 @@ const products=[
     mt: "Rừng",
     ta: "Thực vật",
     bt: "Sẽ nguy cấp",
-    image: "../assets/nai.webp",
+    image: "../assets/nai.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -190,7 +190,7 @@ const products=[
     mt: "Rừng",
     ta: "Quả, côn trùng",
     bt: "Ít quan tâm",
-    image: "../assets/khi-duoi-dai.webp",
+    image: "../assets/khiduoidai.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -202,19 +202,7 @@ const products=[
     mt: "Rừng",
     ta: "Trái cây",
     bt: "Sắp nguy cấp",
-    image: "../assets/khi-mat-do.webp",
-    link: "chi-tiet.html"
-  },
-  {
-    id: "sp18",
-    name: "Khỉ sóc",
-    tenkh: "Saimiri sciureus",
-    description: "Kích thước nhỏ.",
-    tt: "Leo trèo linh hoạt.",
-    mt: "Rừng",
-    ta: "Côn trùng, quả",
-    bt: "Ít quan tâm",
-    image: "../assets/khi-soc.webp",
+    image: "../assets/khimatdo.webp",
     link: "chi-tiet.html"
   },
   {
@@ -226,7 +214,7 @@ const products=[
     mt: "Rừng",
     ta: "Quả",
     bt: "Nguy cấp",
-    image: "../assets/vuon-ma-vang.webp",
+    image: "../assets/vuonmavang.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -238,7 +226,7 @@ const products=[
     mt: "Rừng mưa",
     ta: "Quả",
     bt: "Cực kỳ nguy cấp",
-    image: "../assets/duoi-uoi.webp",
+    image: "../assets/duoiuoi.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -250,7 +238,7 @@ const products=[
     mt: "Phụ thuộc từng loài.",
     ta: "Phụ thuộc từng loài.",
     bt: "Được quan tâm bảo tồn ở nhiều khu bảo tồn và vườn thú.",
-    image: "../assets/tinh-tinh.webp",
+    image: "../assets/tinhtinh.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -262,21 +250,10 @@ const products=[
     mt: "Phụ thuộc từng loài.",
     ta: "Phụ thuộc từng loài.",
     bt: "Được quan tâm bảo tồn ở nhiều khu bảo tồn và vườn thú.",
-    image: "../assets/vooc-bac.webp",
+    image: "../assets/voocvoocbac.jpg",
     link: "chi-tiet.html"
   },
-  {
-    id: "sp23",
-    name: "Cầy vòi hương",
-    tenkh: "Paradoxurus hermaphroditus",
-    description: "Có hình thái đặc trưng của loài, thích nghi tốt với môi trường sống tự nhiên và thường được nuôi bảo tồn trong thảo cầm viên.",
-    tt: "Hoạt động, kiếm ăn và sinh sản theo đặc điểm sinh học của loài; góp phần duy trì cân bằng hệ sinh thái.",
-    mt: "Phụ thuộc từng loài.",
-    ta: "Phụ thuộc từng loài.",
-    bt: "Được quan tâm bảo tồn ở nhiều khu bảo tồn và vườn thú.",
-    image: "../assets/cay-voi-huong.webp",
-    link: "chi-tiet.html"
-  },
+  
   {
     id: "sp24",
     name: "Rái cá",
@@ -286,7 +263,7 @@ const products=[
     mt: "Phụ thuộc từng loài.",
     ta: "Phụ thuộc từng loài.",
     bt: "Được quan tâm bảo tồn ở nhiều khu bảo tồn và vườn thú.",
-    image: "../assets/rai-ca.webp",
+    image: "../assets/raica.webp",
     link: "chi-tiet.html"
   },
   {
@@ -298,7 +275,7 @@ const products=[
     mt: "Phụ thuộc từng loài.",
     ta: "Phụ thuộc từng loài.",
     bt: "Được quan tâm bảo tồn ở nhiều khu bảo tồn và vườn thú.",
-    image: "../assets/nhim.webp",
+    image: "../assets/nhim.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -310,7 +287,7 @@ const products=[
     mt: "Phụ thuộc từng loài.",
     ta: "Phụ thuộc từng loài.",
     bt: "Được quan tâm bảo tồn ở nhiều khu bảo tồn và vườn thú.",
-    image: "../assets/soc-do.webp",
+    image: "../assets/socdo.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -322,7 +299,7 @@ const products=[
     mt: "Phụ thuộc từng loài.",
     ta: "Phụ thuộc từng loài.",
     bt: "Được quan tâm bảo tồn ở nhiều khu bảo tồn và vườn thú.",
-    image: "../assets/tho.webp",
+    image: "../assets/tho.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -334,7 +311,7 @@ const products=[
     mt: "Phụ thuộc từng loài.",
     ta: "Phụ thuộc từng loài.",
     bt: "Được quan tâm bảo tồn ở nhiều khu bảo tồn và vườn thú.",
-    image: "../assets/ca-sau-xiem.webp",
+    image: "../assets/casau.jpeg",
     link: "chi-tiet.html"
   },
   {
@@ -346,7 +323,7 @@ const products=[
     mt: "Phụ thuộc từng loài.",
     ta: "Phụ thuộc từng loài.",
     bt: "Được quan tâm bảo tồn ở nhiều khu bảo tồn và vườn thú.",
-    image: "../assets/tran-gam.webp",
+    image: "../assets/trangam.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -358,21 +335,10 @@ const products=[
     mt: "Tùy theo loài.",
     ta: "Tùy theo loài.",
     bt: "Được theo dõi và bảo tồn.",
-    image: "../assets/ran-ho-mang.webp",
+    image: "../assets/ranhomang.jpg",
     link: "chi-tiet.html"
   },
-  {
-    id: "sp31",
-    name: "Kỳ đà hoa",
-    tenkh: "Varanus salvator",
-    description: "Dễ nhận biết nhờ đặc điểm hình thái riêng, thích nghi tốt với môi trường sống.",
-    tt: "Có hành vi kiếm ăn và sinh sản đặc trưng của loài.",
-    mt: "Tùy theo loài.",
-    ta: "Tùy theo loài.",
-    bt: "Được theo dõi và bảo tồn.",
-    image: "../assets/ky-da-hoa.webp",
-    link: "chi-tiet.html"
-  },
+  
   {
     id: "sp32",
     name: "Rùa sao",
@@ -382,7 +348,7 @@ const products=[
     mt: "Tùy theo loài.",
     ta: "Tùy theo loài.",
     bt: "Được theo dõi và bảo tồn.",
-    image: "../assets/rua-sao.webp",
+    image: "../assets/rua.webp",
     link: "chi-tiet.html"
   },
   {
@@ -394,7 +360,7 @@ const products=[
     mt: "Tùy theo loài.",
     ta: "Tùy theo loài.",
     bt: "Được theo dõi và bảo tồn.",
-    image: "../assets/da-dieu.webp",
+    image: "../assets/dadieu.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -406,7 +372,7 @@ const products=[
     mt: "Tùy theo loài.",
     ta: "Tùy theo loài.",
     bt: "Được theo dõi và bảo tồn.",
-    image: "../assets/cong-xanh.webp",
+    image: "../assets/cong.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -418,7 +384,7 @@ const products=[
     mt: "Tùy theo loài.",
     ta: "Tùy theo loài.",
     bt: "Được theo dõi và bảo tồn.",
-    image: "../assets/hong-hac.webp",
+    image: "../assets/honghac.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -430,7 +396,7 @@ const products=[
     mt: "Tùy theo loài.",
     ta: "Tùy theo loài.",
     bt: "Được theo dõi và bảo tồn.",
-    image: "../assets/thien-nga.webp",
+    image: "../assets/thiennga.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -442,7 +408,7 @@ const products=[
     mt: "Tùy theo loài.",
     ta: "Tùy theo loài.",
     bt: "Được theo dõi và bảo tồn.",
-    image: "../assets/bo-nong.webp",
+    image: "../assets/bonong.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -454,33 +420,11 @@ const products=[
     mt: "Phù hợp với điều kiện sinh thái của từng loài.",
     ta: "Phụ thuộc từng loài.",
     bt: "Được bảo tồn tại nhiều vườn thú và khu bảo tồn.",
-    image: "../assets/vet-macaw.webp",
+    image: "../assets/vec.jpg",
     link: "chi-tiet.html"
   },
-  {
-    id: "sp39",
-    name: "Đại bàng",
-    tenkh: "Aquila",
-    description: "Có đặc điểm nhận dạng nổi bật và giá trị trong công tác giáo dục, bảo tồn.",
-    tt: "Tùy loài, có thể sống theo đàn hoặc đơn độc; kiếm ăn và sinh sản theo mùa.",
-    mt: "Phù hợp với điều kiện sinh thái của từng loài.",
-    ta: "Phụ thuộc từng loài.",
-    bt: "Được bảo tồn tại nhiều vườn thú và khu bảo tồn.",
-    image: "../assets/dai-bang.webp",
-    link: "chi-tiet.html"
-  },
-  {
-    id: "sp40",
-    name: "Cú mèo",
-    tenkh: "Strigiformes",
-    description: "Có đặc điểm nhận dạng nổi bật và giá trị trong công tác giáo dục, bảo tồn.",
-    tt: "Tùy loài, có thể sống theo đàn hoặc đơn độc; kiếm ăn và sinh sản theo mùa.",
-    mt: "Phù hợp với điều kiện sinh thái của từng loài.",
-    ta: "Phụ thuộc từng loài.",
-    bt: "Được bảo tồn tại nhiều vườn thú và khu bảo tồn.",
-    image: "../assets/cu-meo.webp",
-    link: "chi-tiet.html"
-  },
+  
+  
   {
     id: "sp41",
     name: "Chim trĩ đỏ",
@@ -490,7 +434,7 @@ const products=[
     mt: "Phù hợp với điều kiện sinh thái của từng loài.",
     ta: "Phụ thuộc từng loài.",
     bt: "Được bảo tồn tại nhiều vườn thú và khu bảo tồn.",
-    image: "../assets/chim-tri-do.webp",
+    image: "../assets/chimtrido.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -502,7 +446,7 @@ const products=[
     mt: "Phù hợp với điều kiện sinh thái của từng loài.",
     ta: "Phụ thuộc từng loài.",
     bt: "Được bảo tồn tại nhiều vườn thú và khu bảo tồn.",
-    image: "../assets/ga-loi-trang.webp",
+    image: "../assets/galoi.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -514,7 +458,7 @@ const products=[
     mt: "Phù hợp với điều kiện sinh thái của từng loài.",
     ta: "Phụ thuộc từng loài.",
     bt: "Được bảo tồn tại nhiều vườn thú và khu bảo tồn.",
-    image: "../assets/vit-troi.webp",
+    image: "../assets/vittroi.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -526,7 +470,7 @@ const products=[
     mt: "Phù hợp với điều kiện sinh thái của từng loài.",
     ta: "Phụ thuộc từng loài.",
     bt: "Được bảo tồn tại nhiều vườn thú và khu bảo tồn.",
-    image: "../assets/ngong.webp",
+    image: "../assets/ngong.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -538,7 +482,7 @@ const products=[
     mt: "Phù hợp với điều kiện sinh thái của từng loài.",
     ta: "Phụ thuộc từng loài.",
     bt: "Được bảo tồn tại nhiều vườn thú và khu bảo tồn.",
-    image: "../assets/co-trang.webp",
+    image: "../assets/cotrang.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -550,7 +494,7 @@ const products=[
     mt: "Phù hợp với điều kiện sinh thái của từng loài.",
     ta: "Phụ thuộc từng loài.",
     bt: "Được bảo tồn tại nhiều vườn thú và khu bảo tồn.",
-    image: "../assets/khi-dau-cho.webp",
+    image: "../assets/khidaucho.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -562,22 +506,11 @@ const products=[
     mt: "Phù hợp với điều kiện sinh thái của từng loài.",
     ta: "Phụ thuộc từng loài.",
     bt: "Được bảo tồn tại nhiều vườn thú và khu bảo tồn.",
-    image: "../assets/lon-rung.webp",
-    link: "chi-tiet.html"
-  }*/
-  
-  {
-    id: "sp52",
-    name: "Cây sao đen",
-    tenkh: "Hopea odorata",
-    description: "Là cây thân gỗ hoặc cây lâu năm có giá trị cảnh quan và sinh thái.",
-    dt: "Phát triển tốt trong khí hậu nhiệt đới, cần ánh sáng và đất phù hợp.",
-    mts: "Công viên, rừng hoặc khu bảo tồn.",
-    vt: "Tạo bóng mát, hấp thụ CO₂, góp phần bảo tồn đa dạng sinh học.",
-    image: "../assets/ho.jpg",
+    image: "../assets/lorung.jpg",
     link: "chi-tiet.html"
   },
- /* {
+
+  {
     id: "sp53",
     name: "Cây me",
     tenkh: "Tamarindus indica",
@@ -585,7 +518,7 @@ const products=[
     dt: "Phát triển tốt trong khí hậu nhiệt đới, cần ánh sáng và đất phù hợp.",
     mts: "Công viên, rừng hoặc khu bảo tồn.",
     vt: "Tạo bóng mát, hấp thụ CO₂, góp phần bảo tồn đa dạng sinh học.",
-    image: "",
+    image: "../assets/me.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -596,7 +529,7 @@ const products=[
     dt: "Phát triển tốt trong khí hậu nhiệt đới, cần ánh sáng và đất phù hợp.",
     mts: "Công viên, rừng hoặc khu bảo tồn.",
     vt: "Tạo bóng mát, hấp thụ CO₂, góp phần bảo tồn đa dạng sinh học.",
-    image: "",
+    image: "../assets/cayxacu.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -607,7 +540,7 @@ const products=[
     dt: "Phát triển tốt trong khí hậu nhiệt đới, cần ánh sáng và đất phù hợp.",
     mts: "Công viên, rừng hoặc khu bảo tồn.",
     vt: "Tạo bóng mát, hấp thụ CO₂, góp phần bảo tồn đa dạng sinh học.",
-    image: "",
+    image: "../assets/caylimxet.webp",
     link: "chi-tiet.html"
   },
   {
@@ -618,7 +551,7 @@ const products=[
     dt: "Phát triển tốt trong khí hậu nhiệt đới, cần ánh sáng và đất phù hợp.",
     mts: "Công viên, rừng hoặc khu bảo tồn.",
     vt: "Tạo bóng mát, hấp thụ CO₂, góp phần bảo tồn đa dạng sinh học.",
-    image: "",
+    image: "../assets/banglang.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -629,18 +562,7 @@ const products=[
     dt: "Phát triển tốt trong khí hậu nhiệt đới, cần ánh sáng và đất phù hợp.",
     mts: "Công viên, rừng hoặc khu bảo tồn.",
     vt: "Tạo bóng mát, hấp thụ CO₂, góp phần bảo tồn đa dạng sinh học.",
-    image: "",
-    link: "chi-tiet.html"
-  },
-  {
-    id: "sp58",
-    name: "Cây giáng hương",
-    tenkh: "Pterocarpus macrocarpus",
-    description: "Là cây thân gỗ hoặc cây lâu năm có giá trị cảnh quan và sinh thái.",
-    dt: "Phát triển tốt trong khí hậu nhiệt đới, cần ánh sáng và đất phù hợp.",
-    mts: "Công viên, rừng hoặc khu bảo tồn.",
-    vt: "Tạo bóng mát, hấp thụ CO₂, góp phần bảo tồn đa dạng sinh học.",
-    image: "",
+    image: "../assets/phuongvy.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -651,7 +573,7 @@ const products=[
     dt: "Phát triển tốt trong khí hậu nhiệt đới, cần ánh sáng và đất phù hợp.",
     mts: "Công viên, rừng hoặc khu bảo tồn.",
     vt: "Tạo bóng mát, hấp thụ CO₂, góp phần bảo tồn đa dạng sinh học.",
-    image: "",
+    image: "../assets/cayda.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -662,7 +584,7 @@ const products=[
     dt: "Phát triển tốt trong khí hậu nhiệt đới, cần ánh sáng và đất phù hợp.",
     mts: "Công viên, rừng hoặc khu bảo tồn.",
     vt: "Tạo bóng mát, hấp thụ CO₂, góp phần bảo tồn đa dạng sinh học.",
-    image: "",
+    image: "../assets/bode.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -673,7 +595,7 @@ const products=[
     dt: "Sinh trưởng tốt trong điều kiện phù hợp về đất, nước và ánh sáng.",
     mts: "Công viên, vườn thực vật hoặc tự nhiên.",
     vt: "Tăng giá trị cảnh quan, cải thiện môi trường và góp phần bảo tồn thực vật.",
-    image: "",
+    image: "../assets/cauvua.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -684,7 +606,7 @@ const products=[
     dt: "Sinh trưởng tốt trong điều kiện phù hợp về đất, nước và ánh sáng.",
     mts: "Công viên, vườn thực vật hoặc tự nhiên.",
     vt: "Tăng giá trị cảnh quan, cải thiện môi trường và góp phần bảo tồn thực vật.",
-    image: "",
+    image: "../assets/caydua.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -695,7 +617,7 @@ const products=[
     dt: "Sinh trưởng tốt trong điều kiện phù hợp về đất, nước và ánh sáng.",
     mts: "Công viên, vườn thực vật hoặc tự nhiên.",
     vt: "Tăng giá trị cảnh quan, cải thiện môi trường và góp phần bảo tồn thực vật.",
-    image: "",
+    image: "../assets/tre.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -706,7 +628,7 @@ const products=[
     dt: "Sinh trưởng tốt trong điều kiện phù hợp về đất, nước và ánh sáng.",
     mts: "Công viên, vườn thực vật hoặc tự nhiên.",
     vt: "Tăng giá trị cảnh quan, cải thiện môi trường và góp phần bảo tồn thực vật.",
-    image: "",
+    image: "../assets/truc.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -717,7 +639,7 @@ const products=[
     dt: "Sinh trưởng tốt trong điều kiện phù hợp về đất, nước và ánh sáng.",
     mts: "Công viên, vườn thực vật hoặc tự nhiên.",
     vt: "Tăng giá trị cảnh quan, cải thiện môi trường và góp phần bảo tồn thực vật.",
-    image: "",
+    image: "../assets/lan.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -728,18 +650,7 @@ const products=[
     dt: "Sinh trưởng tốt trong điều kiện phù hợp về đất, nước và ánh sáng.",
     mts: "Công viên, vườn thực vật hoặc tự nhiên.",
     vt: "Tăng giá trị cảnh quan, cải thiện môi trường và góp phần bảo tồn thực vật.",
-    image: "",
-    link: "chi-tiet.html"
-  },
-  {
-    id: "sp67",
-    name: "Súng",
-    tenkh: "Nymphaea",
-    description: "Có hình thái đặc trưng, được trồng làm cảnh hoặc bảo tồn.",
-    dt: "Sinh trưởng tốt trong điều kiện phù hợp về đất, nước và ánh sáng.",
-    mts: "Công viên, vườn thực vật hoặc tự nhiên.",
-    vt: "Tăng giá trị cảnh quan, cải thiện môi trường và góp phần bảo tồn thực vật.",
-    image: "",
+    image: "../assets/sen.jpg",
     link: "chi-tiet.html"
   },
   {
@@ -750,32 +661,11 @@ const products=[
     dt: "Sinh trưởng tốt trong điều kiện phù hợp về đất, nước và ánh sáng.",
     mts: "Công viên, vườn thực vật hoặc tự nhiên.",
     vt: "Tăng giá trị cảnh quan, cải thiện môi trường và góp phần bảo tồn thực vật.",
-    image: "",
+    image: "../assets/vantue.webp",
     link: "chi-tiet.html"
   },
-  {
-    id: "sp69",
-    name: "Cọ cảnh",
-    tenkh: "Arecaceae",
-    description: "Có hình thái đặc trưng, được trồng làm cảnh hoặc bảo tồn.",
-    dt: "Sinh trưởng tốt trong điều kiện phù hợp về đất, nước và ánh sáng.",
-    mts: "Công viên, vườn thực vật hoặc tự nhiên.",
-    vt: "Tăng giá trị cảnh quan, cải thiện môi trường và góp phần bảo tồn thực vật.",
-    image: "",
-    link: "chi-tiet.html"
-  },
-  {
-    id: "sp70",
-    name: "Bàng Đài Loan",
-    tenkh: "Terminalia mantaly",
-    description: "Có hình thái đặc trưng, được trồng làm cảnh hoặc bảo tồn.",
-    dt: "Sinh trưởng tốt trong điều kiện phù hợp về đất, nước và ánh sáng.",
-    mts: "Công viên, vườn thực vật hoặc tự nhiên.",
-    vt: "Tăng giá trị cảnh quan, cải thiện môi trường và góp phần bảo tồn thực vật.",
-    image: "",
-    link: "chi-tiet.html"
-  }
-*/
+  
+
 
 ];
 
@@ -793,7 +683,7 @@ function createItem(obj) {
     item.style.padding = "20px";
     item.style.borderRadius = "10px";
     item.style.boxSizing = "border-box";
-    // Flexbox cho chính item để đẩy nút "Xem chi tiết" luôn nằm dưới đáy bằng nhau
+  
     item.style.display = "flex";
     item.style.flexDirection = "column";
     item.style.justifyContent = "space-between"; 
