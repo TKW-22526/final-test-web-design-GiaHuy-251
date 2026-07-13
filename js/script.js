@@ -250,7 +250,7 @@ const products=[
     mt: "Phụ thuộc từng loài.",
     ta: "Phụ thuộc từng loài.",
     bt: "Được quan tâm bảo tồn ở nhiều khu bảo tồn và vườn thú.",
-    image: "../assets/voocvoocbac.jpg",
+    image: "../assets/voocbac.jpg",
     link: "chi-tiet.html"
   },
   
