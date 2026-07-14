@@ -255,7 +255,7 @@ const products=[
   },
   
   {
-    id: "sp24",
+    id: "sp23",
     name: "Rái cá",
     tenkh: "Lutra lutra",
     description: "Có hình thái đặc trưng của loài, thích nghi tốt với môi trường sống tự nhiên và thường được nuôi bảo tồn trong thảo cầm viên.",
@@ -267,7 +267,7 @@ const products=[
     link: "chi-tiet.html"
   },
   {
-    id: "sp25",
+    id: "sp23",
     name: "Nhím",
     tenkh: "Hystrix brachyura",
     description: "Có hình thái đặc trưng của loài, thích nghi tốt với môi trường sống tự nhiên và thường được nuôi bảo tồn trong thảo cầm viên.",
@@ -279,7 +279,7 @@ const products=[
     link: "chi-tiet.html"
   },
   {
-    id: "sp26",
+    id: "sp25",
     name: "Sóc đỏ",
     tenkh: "Sciurus vulgaris",
     description: "Có hình thái đặc trưng của loài, thích nghi tốt với môi trường sống tự nhiên và thường được nuôi bảo tồn trong thảo cầm viên.",
@@ -291,7 +291,7 @@ const products=[
     link: "chi-tiet.html"
   },
   {
-    id: "sp27",
+    id: "sp26",
     name: "Thỏ",
     tenkh: "Oryctolagus cuniculus",
     description: "Có hình thái đặc trưng của loài, thích nghi tốt with môi trường sống tự nhiên và thường được nuôi bảo tồn trong thảo cầm viên.",
@@ -303,7 +303,7 @@ const products=[
     link: "chi-tiet.html"
   },
   {
-    id: "sp28",
+    id: "sp27",
     name: "Cá sấu Xiêm",
     tenkh: "Crocodylus siamensis",
     description: "Có hình thái đặc trưng của loài, thích nghi tốt với môi trường sống tự nhiên và thường được nuôi bảo tồn trong thảo cầm viên.",
@@ -315,7 +315,7 @@ const products=[
     link: "chi-tiet.html"
   },
   {
-    id: "sp29",
+    id: "sp28",
     name: "Trăn gấm",
     tenkh: "Malayopython reticulatus",
     description: "Có hình thái đặc trưng của loài, thích nghi tốt với môi trường sống tự nhiên và thường được nuôi bảo tồn trong thảo cầm viên.",
@@ -327,7 +327,7 @@ const products=[
     link: "chi-tiet.html"
   },
   {
-    id: "sp30",
+    id: "sp29",
     name: "Rắn hổ mang",
     tenkh: "Naja naja",
     description: "Dễ nhận biết nhờ đặc điểm hình thái riêng, thích nghi tốt với môi trường sống.",
@@ -340,7 +340,7 @@ const products=[
   },
   
   {
-    id: "sp32",
+    id: "sp30",
     name: "Rùa sao",
     tenkh: "Geochelone elegans",
     description: "Dễ nhận biết nhờ đặc điểm hình thái riêng, thích nghi tốt với môi trường sống.",
@@ -352,7 +352,7 @@ const products=[
     link: "chi-tiet.html"
   },
   {
-    id: "sp33",
+    id: "sp31",
     name: "Đà điểu",
     tenkh: "Struthio camelus",
     description: "Dễ nhận biết nhờ đặc điểm hình thái riêng, thích nghi tốt với môi trường sống.",
@@ -364,7 +364,7 @@ const products=[
     link: "chi-tiet.html"
   },
   {
-    id: "sp34",
+    id: "sp32",
     name: "Công xanh",
     tenkh: "Pavo cristatus",
     description: "Dễ nhận biết nhờ đặc điểm hình thái riêng, thích nghi tốt với môi trường sống.",
@@ -376,7 +376,7 @@ const products=[
     link: "chi-tiet.html"
   },
   {
-    id: "sp35",
+    id: "sp33",
     name: "Hồng hạc",
     tenkh: "Phoenicopterus roseus",
     description: "Dễ nhận biết nhờ đặc điểm hình thái riêng, thích nghi tốt với môi trường sống.",
@@ -388,7 +388,7 @@ const products=[
     link: "chi-tiet.html"
   },
   {
-    id: "sp36",
+    id: "sp34",
     name: "Thiên nga",
     tenkh: "Cygnus",
     description: "Dễ nhận biết nhờ đặc điểm hình thái riêng, thích nghi tốt với môi trường sống.",
@@ -400,7 +400,7 @@ const products=[
     link: "chi-tiet.html"
   },
   {
-    id: "sp37",
+    id: "sp35",
     name: "Bồ nông",
     tenkh: "Pelecanus",
     description: "Dễ nhận biết nhờ đặc điểm hình thái riêng, thích nghi tốt với môi trường sống.",
@@ -412,7 +412,7 @@ const products=[
     link: "chi-tiet.html"
   },
   {
-    id: "sp38",
+    id: "sp36",
     name: "Vẹt Macaw",
     tenkh: "Ara",
     description: "Có đặc điểm nhận dạng nổi bật và giá trị trong công tác giáo dục, bảo tồn.",
@@ -426,7 +426,7 @@ const products=[
   
   
   {
-    id: "sp41",
+    id: "sp37",
     name: "Chim trĩ đỏ",
     tenkh: "Chrysolophus pictus",
     description: "Có đặc điểm nhận dạng nổi bật và giá trị trong công tác giáo dục, bảo tồn.",
@@ -438,7 +438,7 @@ const products=[
     link: "chi-tiet.html"
   },
   {
-    id: "sp42",
+    id: "sp38",
     name: "Gà lôi trắng",
     tenkh: "Lophura nycthemera",
     description: "Có đặc điểm nhận dạng nổi bật và giá trị trong công tác giáo dục, bảo tồn.",
@@ -450,7 +450,7 @@ const products=[
     link: "chi-tiet.html"
   },
   {
-    id: "sp43",
+    id: "sp39",
     name: "Vịt trời",
     tenkh: "Anas platyrhynchos",
     description: "Có đặc điểm nhận dạng nổi bật và giá trị trong công tác giáo dục, bảo tồn.",
@@ -462,7 +462,7 @@ const products=[
     link: "chi-tiet.html"
   },
   {
-    id: "sp44",
+    id: "sp40",
     name: "Ngỗng",
     tenkh: "Anser",
     description: "Có đặc điểm nhận dạng nổi bật và giá trị trong công tác giáo dục, bảo tồn.",
@@ -474,7 +474,7 @@ const products=[
     link: "chi-tiet.html"
   },
   {
-    id: "sp45",
+    id: "sp41",
     name: "Cò trắng",
     tenkh: "Ardea alba",
     description: "Có đặc điểm nhận dạng nổi bật và giá trị trong công tác giáo dục, bảo tồn.",
@@ -486,7 +486,7 @@ const products=[
     link: "chi-tiet.html"
   },
   {
-    id: "sp46",
+    id: "sp42",
     name: "Khỉ đầu chó",
     tenkh: "Papio",
     description: "Có đặc điểm nhận dạng nổi bật và giá trị trong công tác giáo dục, bảo tồn.",
@@ -498,7 +498,7 @@ const products=[
     link: "chi-tiet.html"
   },
   {
-    id: "sp57",
+    id: "sp43",
     name: "Lợn rừng",
     tenkh: "Sus scrofa",
     description: "Có đặc điểm nhận dạng nổi bật và giá trị trong công tác giáo dục, bảo tồn.",
@@ -511,7 +511,7 @@ const products=[
   },
 
   {
-    id: "sp53",
+    id: "sp44",
     name: "Cây me",
     tenkh: "Tamarindus indica",
     description: "Là cây thân gỗ hoặc cây lâu năm có giá trị cảnh quan và sinh thái.",
@@ -522,7 +522,7 @@ const products=[
     link: "chi-tiet.html"
   },
   {
-    id: "sp54",
+    id: "sp45",
     name: "Cây xà cừ",
     tenkh: "Khaya senegalensis",
     description: "Là cây thân gỗ hoặc cây lâu năm có giá trị cảnh quan và sinh thái.",
@@ -533,7 +533,7 @@ const products=[
     link: "chi-tiet.html"
   },
   {
-    id: "sp55",
+    id: "sp46",
     name: "Cây lim xẹt",
     tenkh: "Peltophorum pterocarpum",
     description: "Là cây thân gỗ hoặc cây lâu năm có giá trị cảnh quan và sinh thái.",
@@ -544,7 +544,7 @@ const products=[
     link: "chi-tiet.html"
   },
   {
-    id: "sp56",
+    id: "sp47",
     name: "Cây bằng lăng",
     tenkh: "Lagerstroemia speciosa",
     description: "Là cây thân gỗ hoặc cây lâu năm có giá trị cảnh quan và sinh thái.",
@@ -555,7 +555,7 @@ const products=[
     link: "chi-tiet.html"
   },
   {
-    id: "sp57",
+    id: "sp48",
     name: "Cây phượng vĩ",
     tenkh: "Delonix regia",
     description: "Là cây thân gỗ hoặc cây lâu năm có giá trị cảnh quan và sinh thái.",
@@ -566,7 +566,7 @@ const products=[
     link: "chi-tiet.html"
   },
   {
-    id: "sp59",
+    id: "sp49",
     name: "Cây đa",
     tenkh: "Ficus benghalensis",
     description: "Là cây thân gỗ hoặc cây lâu năm có giá trị cảnh quan và sinh thái.",
@@ -577,7 +577,7 @@ const products=[
     link: "chi-tiet.html"
   },
   {
-    id: "sp60",
+    id: "sp50",
     name: "Cây bồ đề",
     tenkh: "Ficus religiosa",
     description: "Là cây thân gỗ hoặc cây lâu năm có giá trị cảnh quan và sinh thái.",
@@ -588,7 +588,7 @@ const products=[
     link: "chi-tiet.html"
   },
   {
-    id: "sp61",
+    id: "sp51",
     name: "Cây cau vua",
     tenkh: "Roystonea regia",
     description: "Có hình thái đặc trưng, được trồng làm cảnh hoặc bảo tồn.",
@@ -599,7 +599,7 @@ const products=[
     link: "chi-tiet.html"
   },
   {
-    id: "sp62",
+    id: "sp52",
     name: "Cây dừa",
     tenkh: "Cocos nucifera",
     description: "Có hình thái đặc trưng, được trồng làm cảnh hoặc bảo tồn.",
@@ -610,7 +610,7 @@ const products=[
     link: "chi-tiet.html"
   },
   {
-    id: "sp63",
+    id: "sp53",
     name: "Tre",
     tenkh: "Bambusa",
     description: "Có hình thái đặc trưng, được trồng làm cảnh hoặc bảo tồn.",
@@ -621,7 +621,7 @@ const products=[
     link: "chi-tiet.html"
   },
   {
-    id: "sp64",
+    id: "sp54",
     name: "Trúc",
     tenkh: "Bambusoideae",
     description: "Có hình thái đặc trưng, được trồng làm cảnh hoặc bảo tồn.",
@@ -632,7 +632,7 @@ const products=[
     link: "chi-tiet.html"
   },
   {
-    id: "sp65",
+    id: "sp55",
     name: "Lan",
     tenkh: "Orchidaceae",
     description: "Có hình thái đặc trưng, được trồng làm cảnh hoặc bảo tồn.",
@@ -643,7 +643,7 @@ const products=[
     link: "chi-tiet.html"
   },
   {
-    id: "sp66",
+    id: "sp56",
     name: "Sen",
     tenkh: "Nelumbo nucifera",
     description: "Có hình thái đặc trưng, được trồng làm cảnh hoặc bảo tồn.",
@@ -654,7 +654,7 @@ const products=[
     link: "chi-tiet.html"
   },
   {
-    id: "sp68",
+    id: "sp57",
     name: "Vạn tuế",
     tenkh: "Cycas revoluta",
     description: "Có hình thái đặc trưng, được trồng làm cảnh hoặc bảo tồn.",
